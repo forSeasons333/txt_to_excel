@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="icons/folder_icon.png">icons/folder_icon.png</file>
+<file alias="icons/start_icon.png">icons/start_icon.png</file>
+<file alias="icons/tte.ico">icons/tte.ico</file>
+<file alias="icons/tte.png">icons/tte.png</file>
+</qresource>
+</RCC>
