@@ -6,4 +6,4 @@
 
 ## 怎么使用？
 
-Releases下下载运行即可
+Releases内下载运行即可
